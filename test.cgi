@@ -13,9 +13,11 @@
     <div class="container">
       <div class="header">
         <!-- header -->
-<h1>
-  <a href="/">Giblog Web Site</a>
-</h1>
+<div class="main">
+  <h1>
+    <a href="/">Giblog Web Site</a>
+  </h1>
+</div>
 
       </div>
       <div class="main">
@@ -112,7 +114,7 @@
     Side Bar
   </div>
   <ul>
-    <li>Foo</li>
+    <li><a href="/list.html">Entries</a></li>
     <li>Bar</li>
     <li>Baz</li>
   </ul>
